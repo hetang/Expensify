@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="expense_heading_label">Enter Details about your purchases. All fields are mandatory. Press Submit</string>    
+    <string name="app_name">Expense Management</string>
+    <string name="expense_name_label">Merchant</string>
+    <string name="expense_category_label">Category</string>
+    <string name="expense_new_category_label">New Category</string>
+    <string name="expense_date_label">Date</string>
+    <string name="expense_amount_label">Amount</string>
+    <string name="expense_submit_label">Submit</string>
+</resources>
